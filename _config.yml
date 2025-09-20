@@ -2,6 +2,6 @@ title: "Apuntes para PotSM"
 description: "Apoyo para partidas y creación de personajes"
 url: "https://SamuMSeoane.github.io"
 baseurl: "/PotSM_Apuntes"
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot@v0.2.0
 
-#remote_theme: pages-themes/merlot@v0.2.0
