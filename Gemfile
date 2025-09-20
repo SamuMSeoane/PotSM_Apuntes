@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 gem "github-pages"
-gem "jekyll-theme-slate"
+gem "github-pages", group: :jekyll_plugins
