@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Apuntes para PotSM
 ---
 
@@ -11,4 +11,5 @@ Presentamos estos apuntes como guía para la generación de personajes y apoyo d
 - [Cómo jugar](paginas/como-jugar.md)
 - [Controles](paginas/reglas_navales.md) 
 - [Personajes](paginas/creacion_pjs.md)
+
 - [Objetos](paginas/tablas.md)
