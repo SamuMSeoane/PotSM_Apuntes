@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Apuntes para PotSM
 ---
 
@@ -13,3 +13,4 @@ Presentamos estos apuntes como guía para la generación de personajes y apoyo d
 - [Personajes](paginas/creacion_pjs.md)
 
 - [Objetos](paginas/tablas.md)
+
