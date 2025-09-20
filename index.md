@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Manual de Instrucciones
+title: Apuntes para PotSM
 ---
 
-# Bienvenido al Manual del Juego
+# Pirates of the Spanish Main
 
-Este es el manual de instrucciones completo de nuestro juego.
+Presentamos estos apuntes como guía para la generación de personajes y apoyo durante las partidas.
 
 ## Contenidos principales:
 - [Cómo jugar](como-jugar.md)
-- [Controles](controles.md) 
-- [Personajes](personajes.md)
-- [Objetos](objetos.md)
+- [Controles](reglas_navales.md) 
+- [Personajes](creacion_pjs.md)
+- [Objetos](tablas.md)
