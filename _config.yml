@@ -1,7 +1,6 @@
 title: "Apuntes para PotSM"
 description: "Apoyo para partidas y creación de personajes"
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins: jekyll-remote-theme # add this line to the plugins list if you already have one
 url: "https://SamuMSeoane.github.io"
 baseurl: "/PotSM_Apuntes"
+remote_theme: pages-themes/merlot@v0.2.0
