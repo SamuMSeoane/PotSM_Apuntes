@@ -48,6 +48,7 @@ Tienes la lista de habilidades (ordenadas por atributo que las rige) [aquí](hab
 
 3. Valores derivados *(Derived Stats)*
 ------------
+  
  - El **Paso** *(Pace)* mide lo rápido que se mueve un personaje en una ronda de combate:   
      6 pasos.
 
@@ -106,7 +107,7 @@ Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
 A cambio de un beni, un jugador puede: 
  - Repetir una tirada de rasgo (puedes quedarte con el resultado anterior).
  - Hacer una tirada de absorver daño. (consultar)
- - Recuperarse de un aturdimiento. (consultar)
+ - Recuperarse de un aturdimiento. (consultar)  
 pero NO PUEDE: 
  - Repetir una tirada en una tabla
  - Repetir una tirada de daño (esa norma aparece en una edición posterior)
